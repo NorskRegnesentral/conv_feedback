@@ -7,6 +7,6 @@ Each Excel file consists of several sheets corresponding to different languages 
 
 Each sheet consists of the following columns:
 - Column A: An utterance to label in bold together with a few other utterances as context
-- Column B,C,D: annotations for three conversational feedback classes *Agree / Accept*,  *Acknowledgement / Backchannel* and *Negative Feedback*. 
+- Columns B, C, D: manual annotations for three conversational feedback classes *Agree / Accept*,  *Acknowledgement / Backchannel* and *Negative Feedback*. 
 - Column E: language code and (sub)corpus of origin
 - Column F: Line number of the utterance to annotate from its source file
